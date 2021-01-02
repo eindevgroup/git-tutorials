@@ -21,12 +21,9 @@ http://git-scm.com/download/win
 
 توی cmd بنویس git و کلید enter کیبردت رو بزن
 
-‍‍‍‍‍```
+```bash
 git
-
 ```
 و یه چنین چیزی رو می بینی اگر git ات درست نصب شده باشه
 
-<img src="https://files.virgool.io/upload/users/36695/posts/scryngnypdrs/wx6amlv3fsjw.png" />
-
-</div>
+https://files.virgool.io/upload/users/36695/posts/scryngnypdrs/wx6amlv3fsjw.png
